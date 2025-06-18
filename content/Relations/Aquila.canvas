@@ -1,0 +1,388 @@
+{
+  "edges": [
+    {
+      "color": "2",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "856d7e70abec5dfe",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "84e06df2cde698ab",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromFloating": false,
+      "fromNode": "84e06df2cde698ab",
+      "fromSide": "bottom",
+      "id": "7d5a08e1eee582b2",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "baa44d2bc2cd108d",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromFloating": false,
+      "fromNode": "84e06df2cde698ab",
+      "fromSide": "bottom",
+      "id": "03cc7c639ee8e41f",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "b76f95b01e955123",
+      "toSide": "top"
+    },
+    {
+      "color": "#070b45",
+      "fromFloating": false,
+      "fromNode": "9c7486e45626ec14",
+      "fromSide": "bottom",
+      "id": "fcbda6007135b719",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "b76f95b01e955123",
+      "toSide": "right"
+    },
+    {
+      "color": "4",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "right",
+      "id": "ad008171814bd1da",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "92d12e8288422e2d",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromFloating": false,
+      "fromNode": "92d12e8288422e2d",
+      "fromSide": "right",
+      "id": "2b8c03003c83dda9",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "cbdfb9f793d58dfb",
+      "toSide": "top"
+    },
+    {
+      "color": "#cd56a1",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "left",
+      "id": "6ec23c615627c6b6",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "672e58261cf31add",
+      "toSide": "right"
+    },
+    {
+      "color": "1",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "5d13dea0224c4ebc",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "a02f4d00fea8bbfe",
+      "toSide": "right"
+    },
+    {
+      "color": "3",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "14861de85813d318",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "70d3ddc745ec6ec1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "744c61bae1a535e8",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "37bf654d85393c69",
+      "toSide": "right"
+    },
+    {
+      "color": "#411a4d",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "a0144f94e647bdac",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "26d31f988004185d",
+      "toSide": "right"
+    },
+    {
+      "color": "#0d0d0d",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "2b74919e95e09782",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "e59ed190707c24c3",
+      "toSide": "left"
+    },
+    {
+      "color": "#053d0f",
+      "fromFloating": false,
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "4fee93e161f235ea",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "75aa3b39fc0ec5e1",
+      "toSide": "left"
+    },
+    {
+      "color": "#3d2605",
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "6905ed7249050da8",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "4a963b19db5f4cda",
+      "toSide": "top"
+    },
+    {
+      "color": "#372106",
+      "fromFloating": false,
+      "fromNode": "4a963b19db5f4cda",
+      "fromSide": "bottom",
+      "id": "6c2c515aa9843eb5",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "0fbf908526382167",
+      "toSide": "top"
+    },
+    {
+      "color": "#000000",
+      "fromFloating": false,
+      "fromNode": "e59ed190707c24c3",
+      "fromSide": "bottom",
+      "id": "fbf9b4909054fe0c",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "0fbf908526382167",
+      "toSide": "top"
+    },
+    {
+      "color": "#0e053d",
+      "fromNode": "f5e4ff883ecd7d77",
+      "fromSide": "bottom",
+      "id": "62ec6c49e195b0bd",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "9c7486e45626ec14",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "file": "Constellations/Andromeda, l'Andromède.md",
+      "height": 91,
+      "id": "baa44d2bc2cd108d",
+      "type": "file",
+      "width": 275,
+      "x": -1760,
+      "y": -520
+    },
+    {
+      "file": "Constellations/Monoceros, la Licorne.md",
+      "height": 50,
+      "id": "b76f95b01e955123",
+      "type": "file",
+      "width": 363,
+      "x": -1310,
+      "y": -280
+    },
+    {
+      "file": "Constellations/Ara, l'Autel.md",
+      "height": 60,
+      "id": "cbdfb9f793d58dfb",
+      "type": "file",
+      "width": 217,
+      "x": 640,
+      "y": -720
+    },
+    {
+      "file": "Constellations/Corvus, le Corbeau.md",
+      "height": 60,
+      "id": "0fbf908526382167",
+      "type": "file",
+      "width": 335,
+      "x": -741,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "672e58261cf31add",
+      "styleAttributes": {
+      },
+      "text": "# Crush",
+      "type": "text",
+      "width": 140,
+      "x": -1328,
+      "y": -1330
+    },
+    {
+      "height": 60,
+      "id": "92d12e8288422e2d",
+      "styleAttributes": {
+      },
+      "text": "# Amitié",
+      "type": "text",
+      "width": 161,
+      "x": 240,
+      "y": -1330
+    },
+    {
+      "height": 60,
+      "id": "84e06df2cde698ab",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "# Respect",
+      "type": "text",
+      "width": 120,
+      "x": -1310,
+      "y": -1205
+    },
+    {
+      "height": 60,
+      "id": "a02f4d00fea8bbfe",
+      "styleAttributes": {
+      },
+      "text": "# Couple",
+      "type": "text",
+      "width": 169,
+      "x": -1190,
+      "y": -1080
+    },
+    {
+      "height": 80,
+      "id": "75aa3b39fc0ec5e1",
+      "styleAttributes": {
+      },
+      "text": "# Meilleur.e ami.e",
+      "type": "text",
+      "width": 312,
+      "x": 89,
+      "y": -1220
+    },
+    {
+      "height": 60,
+      "id": "e59ed190707c24c3",
+      "styleAttributes": {
+      },
+      "text": "# Haine",
+      "type": "text",
+      "width": 175,
+      "x": 89,
+      "y": -1080
+    },
+    {
+      "height": 60,
+      "id": "37bf654d85393c69",
+      "styleAttributes": {
+      },
+      "text": "# Neutre",
+      "type": "text",
+      "width": 164,
+      "x": -1080,
+      "y": -990
+    },
+    {
+      "height": 60,
+      "id": "70d3ddc745ec6ec1",
+      "styleAttributes": {
+      },
+      "text": "# Fraternité",
+      "type": "text",
+      "width": 195,
+      "x": -80,
+      "y": -990
+    },
+    {
+      "height": 60,
+      "id": "26d31f988004185d",
+      "styleAttributes": {
+      },
+      "text": "# Peur",
+      "type": "text",
+      "width": 167,
+      "x": -916,
+      "y": -900
+    },
+    {
+      "height": 60,
+      "id": "9c7486e45626ec14",
+      "styleAttributes": {
+      },
+      "text": "# Agacement",
+      "type": "text",
+      "width": 246,
+      "x": -326,
+      "y": -900
+    },
+    {
+      "height": 80,
+      "id": "4a963b19db5f4cda",
+      "styleAttributes": {
+      },
+      "text": "# Anciennes relations amoureuse",
+      "type": "text",
+      "width": 349,
+      "x": -675,
+      "y": -800
+    },
+    {
+      "file": "Constellations/Aquila, l'Aigle.md",
+      "height": 50,
+      "id": "f5e4ff883ecd7d77",
+      "type": "file",
+      "width": 248,
+      "x": -624,
+      "y": -1205
+    },
+    {
+      "file": "Relations/Légendes.md",
+      "height": 380,
+      "id": "259c717aea51a4c2",
+      "type": "file",
+      "width": 320,
+      "x": -1942,
+      "y": -1880
+    }
+  ]
+}
