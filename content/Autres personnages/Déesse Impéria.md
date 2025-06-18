@@ -1,4 +1,5 @@
-#AutresPerso  
+#AutresPerso  #Femme 
+
 Age : des millénaires
 
 La Déesse Impéria est une déesse à l'origine de la création de Noréya. Elle a pu observer la naissance du monde qu'elle a créer ainsi que la naissance d'Onhée. 
