@@ -1,7 +1,7 @@
 #MaisonSagittarius
-### ♐︎ **Marcheurs du Ciel Large** _(dirigé par [[Sagittarius, le Sagittaire]])_
+### ︎ **Marcheurs du Ciel Large** _(dirigé par [[Sagittarius, le Sagittaire]])_
 
-> 🏹 Exploration, spiritualité, liberté, quête
+> Exploration, spiritualité, liberté, quête
 
 - [[Sagittarius, le Sagittaire]] (quête héroïque)
     

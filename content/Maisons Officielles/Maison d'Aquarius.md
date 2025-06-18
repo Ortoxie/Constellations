@@ -1,7 +1,7 @@
 #MaisonAquarius
-### ♒︎ **Assemblée des Courants Libres** _(dirigé par [[Aquarius, le Verseau]])_
+### ︎ **Assemblée des Courants Libres** _(dirigé par [[Aquarius, le Verseau]])_
 
-> 🌬 Progrès, rupture, intellect, humanisme
+> Progrès, rupture, intellect, humanisme
 
 - [[Aquarius, le Verseau]] (réforme divine)
     

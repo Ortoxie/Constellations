@@ -1,7 +1,7 @@
 #MaisonCapricornus 
-### ♑︎ **Pacte des Hautes Pierres** _(dirigé par [[Capricornus, le Capricorne]])_
+### ︎ **Pacte des Hautes Pierres** _(dirigé par [[Capricornus, le Capricorne]])_
 
-> 🏔 Ambition, loi, persévérance, tradition
+> Ambition, loi, persévérance, tradition
 
 - [[Capricornus, le Capricorne]] (escalade du pouvoir)
     

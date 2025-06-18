@@ -1,7 +1,7 @@
 #MaisonVirgo
-### ♍︎ **Confrérie des Mains Sacrées** _(dirigé par [[Virgo, la Vierge]])_
+###  **Confrérie des Mains Sacrées** _(dirigé par [[Virgo, la Vierge]])_
 
-> 🌾 Précision, soin, perfection, service
+> Précision, soin, perfection, service
 
 - [[Virgo, la Vierge]] (pureté, ordre)
     

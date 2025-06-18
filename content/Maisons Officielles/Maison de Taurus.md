@@ -1,7 +1,7 @@
 #MaisonTaurus
-### ♉︎ **Cercle des Racines Ancestrales** _(dirigé par [[Taurus, le Taureau]])_
+### ︎ **Cercle des Racines Ancestrales** _(dirigé par [[Taurus, le Taureau]])_
 
-> 🌿 Stabilité, sensualité, lien à la nature, patience
+> Stabilité, sensualité, lien à la nature, patience
 
 - [[Taurus, le Taureau]] (la force fertile)
     

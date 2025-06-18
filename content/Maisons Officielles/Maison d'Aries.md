@@ -1,7 +1,7 @@
 #MaisonAries 
-### ♈︎ **Ordre de l’Embrasement** _(dirigé par [[Aries, le Belier]])_
+### ︎ **Ordre de l’Embrasement** _(dirigé par [[Aries, le Belier]])_
 
-> 🔥 Audace, action brute, instinct, leadership spontané
+> Audace, action brute, instinct, leadership spontané
 
 - [[Aries, le Belier]] (l’impulsion originelle)
     

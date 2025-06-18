@@ -1,7 +1,7 @@
 #MaisonLeo
-### ♌︎ **Cercle de la Couronne Ardente** _(dirigé par [[Leo, le Lion]])_
+###  **Cercle de la Couronne Ardente** _(dirigé par [[Leo, le Lion]])_
 
-> ☀️ Fierté, rayonnement, expression de soi, grandeur
+> Fierté, rayonnement, expression de soi, grandeur
 
 - [[Leo, le Lion]] (la royauté solaire)
     

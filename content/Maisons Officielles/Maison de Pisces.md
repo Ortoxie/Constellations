@@ -1,7 +1,7 @@
 #MaisonPisces
-### ♓︎ **Confrérie des Âmes Dissoutes** _(dirigé par [[Pisces, les Poissons]])_
+### ︎ **Confrérie des Âmes Dissoutes** _(dirigé par [[Pisces, les Poissons]])_
 
-> 🌫 Intuition, rêve, compassion, mystique
+> Intuition, rêve, compassion, mystique
 
 - [[Pisces, les Poissons]] (symbiose divine)
     

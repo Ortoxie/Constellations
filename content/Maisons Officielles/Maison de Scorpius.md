@@ -1,7 +1,7 @@
 #MaisonScorpius
-### ♏︎ **Lignée du Voile Sombre** _(dirigé par [[Scorpius, le Scorpion]])_
+### ︎ **Lignée du Voile Sombre** _(dirigé par [[Scorpius, le Scorpion]])_
 
-> 🦂 Transformation, mystère, intensité, vérité cachée
+> Transformation, mystère, intensité, vérité cachée
 
 - [[Scorpius, le Scorpion]] (pénétration du secret)
     

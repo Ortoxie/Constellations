@@ -1,7 +1,7 @@
 #MaisonCancer
-### ♋︎ **Clan des Sources Profondes** _(dirigé par [[Cancer, le Cancer]])_
+###  **Clan des Sources Profondes** _(dirigé par [[Cancer, le Cancer]])_
 
-> 🌊 Mémoire, émotions, famille, protection
+> Mémoire, émotions, famille, protection
 
 - [[Cancer, le Cancer]] (le berceau sacré)
     

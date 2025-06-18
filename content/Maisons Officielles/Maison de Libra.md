@@ -1,7 +1,7 @@
 #MaisonLibra
-### ♎︎ **Balance des Liens et des Lois** _(dirigé par [[Libra, la Balance]])_
+### ︎ **Balance des Liens et des Lois** _(dirigé par [[Libra, la Balance]])_
 
-> ⚖️ Justice, équilibre, esthétique, harmonie relationnelle
+> Justice, équilibre, esthétique, harmonie relationnelle
 
 - [[Libra, la Balance]] (justice divine)
     
