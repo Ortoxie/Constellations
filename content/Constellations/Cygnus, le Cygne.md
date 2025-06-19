@@ -1,12 +1,13 @@
 #Homme #MaisonAquarius 
 
-Symbolisme : pureté, musique, grâce
+**Symbolisme :** pureté, musique, grâce
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

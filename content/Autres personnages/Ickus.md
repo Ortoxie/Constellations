@@ -1,8 +1,8 @@
 #AutresPerso #Homme 
 
-Age : 1 231 ans
-Taille : 1m96
-Vu par les constellations comme : le messager, le gardien, la nounou
+**Age :** 1 231 ans
+**Taille :** 1m96
+**Vu par les constellations comme :** Messager, Gardien
 
 Ickus est considéré comme le messager des constellations. C'est celui qui livre les messages des constellations à leur peuples et entre les constellations.
 

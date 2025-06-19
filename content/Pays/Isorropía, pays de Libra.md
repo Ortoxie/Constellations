@@ -1,9 +1,9 @@
 #Pays
 
-Capitale : Belaga
-Bourgs : 27
-Superficie : 137 205 km<sup>2</sup>
-Population totale : 9 099 409
+**Capitale :** Belaga
+**Bourgs :** 27
+**Superficie :** 137 205 km<sup>2</sup>
+**Population totale :** 9 099 409
 - rurale : 8 923 823
 - urbaine : 175 586
 

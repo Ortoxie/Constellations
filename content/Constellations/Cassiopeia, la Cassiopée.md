@@ -1,11 +1,12 @@
 #Femme #MaisonLibra
 
-Symbolisme : vanité, beauté, châtiment royal
+**Symbolisme :** vanité, beauté, châtiment royal
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "

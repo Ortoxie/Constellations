@@ -1,12 +1,13 @@
 #Homme #MaisonScorpius
 
-Symbolisme : Gardiens des anciens secrets, pouvoir tyrannique, intouchable
+**Symbolisme :** Gardiens des anciens secrets, pouvoir tyrannique, intouchable
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

@@ -1,8 +1,8 @@
 #AutresPerso #Femme 
 
-Age : Inconnu, plusieurs milliers d'années, présente sur Noréya depuis sa création
-Taille : 1m59
-Vue par les constellation comme : Mère, Nounou, Guide.
+**Age :** Inconnu, plusieurs milliers d'années, présente sur Noréya depuis sa création
+**Taille :** 1m59
+**Vue par les constellation comme :** Mère, Nounou, Guide.
 
 Naissance des constellations ; 23 septembre, nuit de la Naissance, équinoxe de l'équilibre
 

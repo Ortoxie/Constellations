@@ -1,12 +1,13 @@
 #Homme #MaisonCapricornus 
 
-Symbolisme : autorité, père, gardien de l’ordre
+**Symbolisme :** autorité, père, gardien de l’ordre
 
-Age :
-Taille :
-Nombres de résurrections :
+Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

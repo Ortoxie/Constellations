@@ -1,12 +1,13 @@
 #Femme #MaisonVirgo
 
-Symbolisme : guérison, transformation, changement
+**Symbolisme :** guérison, transformation, changement
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

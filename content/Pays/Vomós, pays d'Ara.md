@@ -1,11 +1,8 @@
 #Pays
 
 **Capitale :** Kor
-
 **Bourgs :** 3
-
 **Superficie :** 4 716 km<sup>2</sup>
-
 **Population totale :** 506 521
 - rurale : 476 378
 - urbaine : 30 143

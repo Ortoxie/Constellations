@@ -2,15 +2,15 @@
 
 Symbolisme : trahison, messager déchu, oiseau bavard
 
-Age : 542 ans
-Taille : 1m82
-Nombres de vie : 4 (-33 -> 0, 0-> 621, 621 -> 655, 655 -> ?)
-Nombres de résurrections : 3
+**Age :** 542 ans
+**Taille :** 1m82
+**Nombres de vies :** 4 (-33 -> 0, 0-> 621, 621 -> 655, 655 -> ?)
+**Nombres de résurrections :** 3
 - Morte d'hypothermie à 33 ans en l'an 0
 - Morte par suicide suite à la mort de l'homme pour lequel elle s'est éprise, Atic, et à la perte de son âme à 621 ans en 621
 - Morte par suicide en se rappelant d'Atic à 35 ans en 656
 
-Titres : 
+**Titres :** 
 " 
 "
 

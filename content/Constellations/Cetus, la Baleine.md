@@ -1,12 +1,13 @@
 #Femme #MaisonScorpius
 
-Symbolisme : Destruction aveugle, peur des profondeurs, puissance incontrôlable
+**Symbolisme :** destruction aveugle, peur des profondeurs, puissance incontrôlable
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres :
+**Titres :** 
 "
 "
 

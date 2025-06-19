@@ -1,11 +1,8 @@
 #Pays
 
 **Capitale :** Chipton
-
 **Bourgs :** 14
-
 **Superficie :** 27 019 km<sup>2</sup>
-
 **Population totale :** 3 206 760
 - rurale : 3 065 539
 - urbaine : 141 221
@@ -19,7 +16,7 @@
 
 **Environnement :
 
-![[Aetos.png]]
+![[Aetos 1.png]]
 
 # Mythes et légendes
 

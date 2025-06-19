@@ -1,13 +1,15 @@
 #Femme #MaisonLeo
 
-Symbolisme : noblesse, esprit, hauteur
+**Symbolisme :** noblesse, esprit, hauteur
 
-Age : 577 ans
-Taille : 2m71
-Nombres de résurrections :
+**Age :** 577 ans
+**Taille :** 2m71
+**Nombre de vie :** 
+**Nombres de résurrections :** 2
 - Morte de chute à 41 ans en l'an 8
 - Morte de chute à 613 ans en 621
-Titre :
+
+**Titre :**
 "L'Œil du Ciel
 "La Gardienne des Courants"
 

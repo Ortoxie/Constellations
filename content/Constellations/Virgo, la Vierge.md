@@ -1,12 +1,13 @@
 #Femme #LesDouze #MaisonVirgo
 
-Symbolisme : prudence, récolte, maternité
+**Symbolisme :** prudence, récolte, maternité
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

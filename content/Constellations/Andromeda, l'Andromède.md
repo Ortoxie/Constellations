@@ -1,9 +1,10 @@
 #Femme #MaisonLibra
 
-Symbolisme : victime injuste, résilience, libération
+**Symbolisme :** victime injuste, résilience, libération
 
 **Age :** 159 ans
 **Taille :** 1m73
+**Nombre de vies** : 4 (-33 -> 2, 2 -> 438, 438 -> 1039, 1039 -> ?)
 **Nombres de résurrections :** 3
 - Morte du cancer à 35 ans en l'an 2
 - Morte noyée à 436 ans en 438

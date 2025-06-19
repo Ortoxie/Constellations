@@ -1,9 +1,9 @@
 #Pays
 
-Capitale : 
-Bourgs : 
-Superficie :  km<sup>2</sup>
-Population totale : 
+**Capitale :** 
+**Bourgs :** 
+**Superficie :**  km<sup>2</sup>
+**Population totale :** 
 - rurale : 
 - urbaine : 
 

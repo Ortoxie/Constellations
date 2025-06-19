@@ -1,12 +1,13 @@
 #Homme #MaisonAries 
 
-Symbolisme : bravoure, délivrance, triomphe sur le monstre
+**Symbolisme :** bravoure, délivrance, triomphe sur le monstre
 
-Age :
-Taille :
-Nombres de résurrections :
+**Age :**
+**Taille :**
+**Nombre de vies :**
+**Nombres de résurrections :**
 
-Titres : 
+**Titres :** 
 "
 "
 

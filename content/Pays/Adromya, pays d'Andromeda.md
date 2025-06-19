@@ -1,11 +1,8 @@
 #Pays
 
 **Capitale :** Lanra
-
 **Bourgs :** 18
-
 **Superficie :** 42 660 km<sup>2</sup>
-
 **Population totale :** 3 482 120
 - rurale : 3 294 626
 - urbaine : 187 494
@@ -22,11 +19,16 @@
 # Mythes et légendes
 
 Peu de temps après la naissance des populations, une partie du peuple de l'Andromède enchaîna une jeune femme, Amarante. Lors d'une des descentes d'Andromeda sur la terre pour voir son peuple, elle discuta un long moment avec Amarante, la trouvant fascinante et recherchant un peu de réconfort avant que la maladie ne l'emporte. 
+
 Les deux eurent un accrochage ensemble rapide le jour même avant qu'Andromeda ne reparte.
 3 jours après, Andromeda succomba de sa maladie. 
+
 Ickus vint auprès du peuple de l'Andromède et annonça la mort de leur constellation. Fou de chagrin, le peuple fit le rapprochement entre la mort d'Andromeda et le temps qu'elle eut passé avec Amarante.
+
 Il enchainèrent alors Amarante à un rocher, l'accusant d'être une sorcière et d'avoir tuer Andromeda. Amarante mourut sur ce même rocher et son cadavre ne fut jamais libéré de ses chaine.
+
 C'est jusqu'à ce que Andromeda, à 15 ans, des visions de cette même femme lui traversant l'esprit, revint sur la terre de son peuple, demandant à la voir.
+
 Folle de rage, elle découvrit ce qui s'était passé et partit libéré le cadavre d'Amarante et lui accorda la paix. En guise de punition, elle puni ensuite son peuple d'une chaine autour du cou, poignet ou cheville à chacun de son peuple, de sa naissance jusqu'à sa mort, appelée l'Entrave. 
 Par culpabilité et en rappel à Amarante, Andromeda porta aussi une chaine autour de son cou.
 
