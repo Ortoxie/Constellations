@@ -1,6 +1,6 @@
 #Femme #LesDouze #MaisonCapricornus 
 
-**Symbolisme :** 
+**Symbolisme :** résilience, ambition, endurance
 
 **Age :**
 **Taille :**

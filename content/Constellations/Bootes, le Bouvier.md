@@ -1,6 +1,6 @@
 #Homme #MaisonAries 
 
-**Symbolisme :** 
+**Symbolisme :** vigilance, invention, agriculture
 
 **Age :**
 **Taille :**

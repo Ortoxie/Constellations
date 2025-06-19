@@ -1,6 +1,6 @@
 #Femme #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** discrétion, adaptation, invisibilité
 
 **Age :**
 **Taille :**

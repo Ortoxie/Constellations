@@ -1,6 +1,6 @@
 #Homme #LesDouze #MaisonCancer
 
-**Symbolisme :** 
+**Symbolisme :** intuition, marée émotionnelle, attachement
 
 **Age :**
 **Taille :**

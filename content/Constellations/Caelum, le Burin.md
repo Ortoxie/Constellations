@@ -1,6 +1,6 @@
 #Homme #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** création, précision, travail de la matière
 
 **Age :**
 **Taille :**

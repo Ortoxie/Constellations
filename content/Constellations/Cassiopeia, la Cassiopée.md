@@ -1,6 +1,6 @@
 #Femme #MaisonLibra
 
-**Symbolisme :** vanité, beauté, châtiment royal
+**Symbolisme :** vanité, beauté orgueilleuse, châtiment royal
 
 **Age :**
 **Taille :**

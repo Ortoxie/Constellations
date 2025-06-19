@@ -1,6 +1,6 @@
 #Homme #LesDouze #MaisonAries
 
-**Symbolisme :** 
+**Symbolisme :** impulsion, courage brut, initiation
 
 **Age :**
 **Taille :**

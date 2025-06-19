@@ -1,8 +1,8 @@
 #Femme #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** traversée, direction intérieure, persévérance
 
-**Age :**
+**Age :** 
 **Taille :**
 **Nombre de vies :**
 **Nombres de résurrections :**
