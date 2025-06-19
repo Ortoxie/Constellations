@@ -1,9 +1,12 @@
 #Pays
 
-Capitale : Lanra
-Bourgs : 18
-Superficie : 42 660 km<sup>2</sup>
-Population totale : 3 482 120
+**Capitale :** Lanra
+
+**Bourgs :** 18
+
+**Superficie :** 42 660 km<sup>2</sup>
+
+**Population totale :** 3 482 120
 - rurale : 3 294 626
 - urbaine : 187 494
 
