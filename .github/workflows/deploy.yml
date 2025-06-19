@@ -16,7 +16,7 @@ concurrency:
  
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04.5
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,12 +31,13 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4.6.2
         with:
+          name: github-pages
           path: public
  
   deploy:
     needs: build
     environment:
-      name: artifact
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
