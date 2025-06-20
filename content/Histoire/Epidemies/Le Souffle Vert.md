@@ -4,7 +4,7 @@
 
 Le Souffle Vert est une maladie qui se repend sur les terre de [[Kéntavros, pays de Centaurus]], [[Karkínos, pays de Cancer]] et [[Monókeros, pays de Monoceros]].
 
-La maladie serait apparut lors d'une erreur de la part de [[Centaurus, le Centaure]]. Il aurait été à la recherche d'une graine ancestrale sur ses terre lui permettant alors d'insuffler sa lance d'une plus grande puissance. Malheureusement, une fois trouver, la graine se désintégra et libera la maladie du Souffle Vert.
+La maladie serait apparut lors d'une erreur de la part de [[Centaurus, le Centaure]]. Elle aurait été à la recherche d'une graine ancestrale sur ses terre lui permettant alors d'insuffler sa lance d'une plus grande puissance. Malheureusement, une fois trouver, la graine se désintégra et libera la maladie du Souffle Vert.
 
 Suite à ça, [[Les Mains Voyageuses]] furent créées afin d'aider les populations touchées par l'épidémie.
 

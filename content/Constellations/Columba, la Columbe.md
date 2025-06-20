@@ -1,6 +1,6 @@
 #Homme #MaisonCancer 
 
-**Symbolisme :** 
+**Symbolisme :** paix, résilience, espoir
 
 **Age :**
 **Taille :**

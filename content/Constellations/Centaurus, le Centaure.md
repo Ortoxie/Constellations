@@ -1,6 +1,6 @@
-#Homme #MaisonTaurus
+#Femme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** sagesse, instincts, guide intérieur
 
 **Age :**
 **Taille :**

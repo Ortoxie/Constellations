@@ -1,6 +1,6 @@
 #Homme #MaisonCapricornus 
 
-**Symbolisme :** 
+**Symbolisme :** précision, savoir, géométrie
 
 **Age :**
 **Taille :**

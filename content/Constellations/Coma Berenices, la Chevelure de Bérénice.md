@@ -1,6 +1,6 @@
 #Femme #MaisonCancer 
 
-**Symbolisme :** 
+**Symbolisme :** sacrifice, promesse, offrande
 
 **Age :**
 **Taille :**

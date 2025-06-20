@@ -1,6 +1,6 @@
 #Femme #MaisonLeo
 
-Symbolisme : trahison, messager déchu, oiseau bavard
+Symbolisme : trahison, messager déchu, secret
 
 **Age :** 542 ans
 **Taille :** 1m82

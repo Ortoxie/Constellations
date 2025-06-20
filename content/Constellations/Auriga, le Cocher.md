@@ -1,6 +1,6 @@
 #Homme #MaisonCapricornus 
 
-**Symbolisme :** 
+**Symbolisme :** endurance, pilote, force du guide
 
 **Age :**
 **Taille :**

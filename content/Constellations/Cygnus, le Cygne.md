@@ -1,6 +1,6 @@
 #Homme #MaisonAquarius 
 
-**Symbolisme :** pureté, musique, grâce
+**Symbolisme :** transcendance, musique, grâce 
 
 **Age :**
 **Taille :**

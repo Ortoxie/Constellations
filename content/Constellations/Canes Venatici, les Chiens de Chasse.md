@@ -1,6 +1,6 @@
-#Homme #MaisonGemini
+#Femme #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** poursuite, instinct animal, obéissance aux devoirs
 
 **Age :**
 **Taille :**

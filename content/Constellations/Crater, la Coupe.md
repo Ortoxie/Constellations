@@ -1,6 +1,6 @@
 #Homme #MaisonCancer
 
-**Symbolisme :** 
+**Symbolisme :** partage, réception, boisson
 
 **Age :**
 **Taille :**
