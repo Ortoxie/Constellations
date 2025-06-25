@@ -1,6 +1,6 @@
 #Homme #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** fluidité, confession, traversée intérieure
 
 **Age :**
 **Taille :**

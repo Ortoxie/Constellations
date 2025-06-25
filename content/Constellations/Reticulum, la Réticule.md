@@ -1,6 +1,6 @@
 #Femme #MaisonAquarius 
 
-**Symbolisme :** 
+**Symbolisme :** focalisation, vision, visée
 
 **Age :**
 **Taille :**

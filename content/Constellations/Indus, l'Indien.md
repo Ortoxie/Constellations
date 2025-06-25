@@ -1,6 +1,6 @@
 #Homme #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** explorateur, connexion, quête des signes
 
 **Age :**
 **Taille :**

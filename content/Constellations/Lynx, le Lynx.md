@@ -1,6 +1,6 @@
 #Homme #MaisonAquarius 
 
-**Symbolisme :** 
+**Symbolisme :** clairvoyance, observation, musique sacrée
 
 **Age :**
 **Taille :**

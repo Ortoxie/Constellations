@@ -1,6 +1,6 @@
 #Homme #MaisonLibra
 
-**Symbolisme :** 
+**Symbolisme :** transformation, renaissance, flamme intérieure
 
 **Age :**
 **Taille :**

@@ -1,6 +1,6 @@
 #Homme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** majesté, orgueil, apparence
 
 **Age :**
 **Taille :**

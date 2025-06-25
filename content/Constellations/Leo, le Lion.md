@@ -1,6 +1,6 @@
 #Homme #LesDouze #MaisonLeo
 
-**Symbolisme :** 
+**Symbolisme :** confiance en soi, la domination, l’ambition
 
 **Age :**
 **Taille :**

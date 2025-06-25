@@ -1,6 +1,6 @@
 #Homme #MaisonScorpius
 
-**Symbolisme :** Sang, offrande, instinct animal
+**Symbolisme :** chasse, offrande, instinct animal
 
 **Age :**
 **Taille :**

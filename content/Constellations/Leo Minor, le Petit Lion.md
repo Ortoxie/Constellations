@@ -1,6 +1,6 @@
 #Homme #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** fierté, petite puissance, pouvoir
 
 **Age :**
 **Taille :**

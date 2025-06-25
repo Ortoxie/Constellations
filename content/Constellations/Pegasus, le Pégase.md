@@ -1,6 +1,6 @@
 #Homme #MaisonLeo
 
-**Symbolisme :** 
+**Symbolisme :** liberté, envol, inspiration
 
 **Age :**
 **Taille :**

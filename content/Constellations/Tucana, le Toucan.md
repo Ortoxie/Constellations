@@ -1,6 +1,6 @@
 #Homme #MaisonScorpius
 
-**Symbolisme :** 
+**Symbolisme :** proclamation de la vérité, exubérance, joie
 
 **Age :**
 **Taille :**

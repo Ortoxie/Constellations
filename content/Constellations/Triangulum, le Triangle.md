@@ -1,6 +1,6 @@
 #Femme #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** stabilité, convergence, figure
 
 **Age :**
 **Taille :**

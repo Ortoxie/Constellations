@@ -1,6 +1,6 @@
 #Homme #MaisonVirgo
 
-**Symbolisme :** 
+**Symbolisme :** matière, forme, tailleur
 
 **Age :**
 **Taille :**

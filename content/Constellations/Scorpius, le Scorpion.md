@@ -1,6 +1,6 @@
 #Femme #LesDouze #MaisonScorpius
 
-**Symbolisme :** Vengeance, piqûre mortelle, passion incontrôlable
+**Symbolisme :** vengeance, luxure, passion incontrôlable
 
 **Age :**
 **Taille :**

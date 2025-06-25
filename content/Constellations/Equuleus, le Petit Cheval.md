@@ -1,6 +1,6 @@
 #Homme #MaisonAquarius 
 
-**Symbolisme :** 
+**Symbolisme :** courage, esprit vif, agilité
 
 **Age :**
 **Taille :**

@@ -1,6 +1,6 @@
 #Homme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** contemplation, vue, lunette
 
 **Age :**
 **Taille :**

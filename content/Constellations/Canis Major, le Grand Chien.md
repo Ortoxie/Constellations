@@ -1,6 +1,6 @@
 #Femme #MaisonLeo
 
-**Symbolisme :** 
+**Symbolisme :** vigilance, fidélité, protectrice
 
 **Age :**
 **Taille :**

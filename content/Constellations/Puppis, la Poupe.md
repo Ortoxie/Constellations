@@ -1,6 +1,6 @@
 #Femme #MaisonCapricornus 
 
-**Symbolisme :** 
+**Symbolisme :** trajet passé, protection, lointain
 
 **Age :**
 **Taille :**

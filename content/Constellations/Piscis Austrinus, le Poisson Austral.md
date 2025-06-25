@@ -1,6 +1,6 @@
 #Femme #MaisonPisces
 
-**Symbolisme :** 
+**Symbolisme :** réceptivité, écoute, source
 
 **Age :**
 **Taille :**

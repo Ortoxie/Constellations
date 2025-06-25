@@ -1,6 +1,6 @@
 #Femme #MaisonAries 
 
-**Symbolisme :** 
+**Symbolisme :** protection, refuge, endurance
 
 **Age :**
 **Taille :**

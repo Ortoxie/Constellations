@@ -1,6 +1,6 @@
 #Homme #MaisonLibra
 
-**Symbolisme :** 
+**Symbolisme :** royauté divine, victoire intérieure, noblesse
 
 **Age :**
 **Taille :**

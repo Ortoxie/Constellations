@@ -1,6 +1,6 @@
 #Homme #MaisonPisces
 
-**Symbolisme :** bienveillance, guidance, aide aux naufragés
+**Symbolisme :** bienveillance, guidance, joie
 
 **Age :**
 **Taille :**

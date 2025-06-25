@@ -1,6 +1,6 @@
 #Homme #MaisonVirgo
 
-**Symbolisme :** 
+**Symbolisme :** orientation, recherche du cap, repère
 
 **Age :**
 **Taille :**

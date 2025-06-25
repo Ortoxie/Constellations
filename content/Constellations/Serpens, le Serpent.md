@@ -1,6 +1,6 @@
 #Femme #MaisonScorpius
 
-**Symbolisme :** 
+**Symbolisme :** connaissance cachée, poison, sagesse
 
 **Age :**
 **Taille :**

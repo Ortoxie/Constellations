@@ -1,6 +1,6 @@
 #Femme #MaisonLibra
 
-**Symbolisme :** 
+**Symbolisme :** guidance, foi intérieure, sacrifice
 
 **Age :**
 **Taille :**

@@ -1,6 +1,6 @@
 #Homme #LesDouze #MaisonPisces
 
-**Symbolisme :** 
+**Symbolisme :** renaissance, sentiment, fertilité
 
 **Age :**
 **Taille :**

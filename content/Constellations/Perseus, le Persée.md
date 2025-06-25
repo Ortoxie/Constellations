@@ -1,6 +1,6 @@
 #Homme #MaisonAries 
 
-**Symbolisme :** bravoure, délivrance, triomphe sur le monstre
+**Symbolisme :** bravoure, délivrance, triomphe
 
 **Age :**
 **Taille :**

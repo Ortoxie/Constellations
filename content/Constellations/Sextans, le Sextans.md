@@ -1,6 +1,6 @@
 #Homme #MaisonVirgo
 
-**Symbolisme :** 
+**Symbolisme :** trajectoire, mesure, calcul
 
 **Age :**
 **Taille :**

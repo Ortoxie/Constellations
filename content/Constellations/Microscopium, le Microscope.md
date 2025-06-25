@@ -1,6 +1,6 @@
 #Femme #MaisonVirgo
 
-**Symbolisme :** 
+**Symbolisme :** obsession du détail, minutieux, rigueur
 
 **Age :**
 **Taille :**

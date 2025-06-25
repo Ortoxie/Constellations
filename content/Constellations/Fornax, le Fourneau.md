@@ -1,6 +1,6 @@
 #Homme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** transformation, chaleur, création
 
 **Age :**
 **Taille :**

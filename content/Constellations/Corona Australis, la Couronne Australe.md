@@ -1,6 +1,6 @@
 #Femme #MaisonLeo
 
-**Symbolisme :** 
+**Symbolisme :** couronne céleste, honneur silencieux, récompense divine
 
 **Age :**
 **Taille :**

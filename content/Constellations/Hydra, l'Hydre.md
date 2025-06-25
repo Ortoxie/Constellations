@@ -1,6 +1,6 @@
 #Femme #MaisonScorpius
 
-**Symbolisme :** Ruse, renouveau, poison et antidote
+**Symbolisme :** savoir, renouveau, poison et antidote
 
 **Age :**
 **Taille :**

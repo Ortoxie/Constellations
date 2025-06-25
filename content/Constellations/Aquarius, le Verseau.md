@@ -1,6 +1,6 @@
-#Femme #LesDouze #MaisonAquarius
+#Homme #LesDouze #MaisonAquarius
 
-**Symbolisme :** 
+**Symbolisme :** eau, innovation, connaissance
 
 **Age :**
 **Taille :**

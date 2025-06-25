@@ -1,7 +1,7 @@
 #MaisonGemini
 ### ︎ **Chœur des Doubles Chemins** _(dirigé par [[Gemini, les Gémaux]])_
 
-> Communication, curiosité, intelligence rapide
+> Communication, curiosité, intelligence rapide 
 
 - [[Gemini, les Gémaux]] (la dualité active)
     

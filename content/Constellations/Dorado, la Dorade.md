@@ -1,6 +1,6 @@
 #Femme #MaisonAquarius 
 
-**Symbolisme :** 
+**Symbolisme :** attrait de l'inconnu, profondeur, voyage
 
 **Age :**
 **Taille :**

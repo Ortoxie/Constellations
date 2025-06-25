@@ -1,6 +1,6 @@
 #Femme #MaisonCancer 
 
-**Symbolisme :** 
+**Symbolisme :** ingéniosité, mécanique, pression
 
 **Age :**
 **Taille :**

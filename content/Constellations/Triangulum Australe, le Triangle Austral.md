@@ -1,6 +1,6 @@
 #Femme #MaisonCapricornus 
 
-**Symbolisme :** 
+**Symbolisme :** géométrie, direction, fondation
 
 **Age :**
 **Taille :**

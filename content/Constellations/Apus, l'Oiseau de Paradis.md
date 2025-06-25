@@ -1,6 +1,6 @@
 #Homme #MaisonPisces
 
-**Symbolisme :** 
+**Symbolisme :** élévation, mysticisme, art du mouvement
 
 **Age :**
 **Taille :**

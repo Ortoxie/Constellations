@@ -1,6 +1,6 @@
 #Femme #Homme  #LesDouze #MaisonGemini
 
-**Symbolisme :** 
+**Symbolisme :** dualité, communication, flexibilité
 
 **Age :**
 **Taille :**

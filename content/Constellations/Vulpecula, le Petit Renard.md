@@ -1,6 +1,6 @@
 #Homme #MaisonAries
 
-**Symbolisme :** 
+**Symbolisme :** ruse élégante, discrétion, intelligence
 
 **Age :**
 **Taille :**

@@ -12,4 +12,4 @@ Andromeda se défend, disant que c'est son peuple et qu'elle en a le droit.
 
 # Résolution :
 
-Libra amena sur le sujet lors d'un réunion des 88. Il fut trancher qu'Andromeda avait droit d'agir sue son peuple comme elle le voulait.
+Libra amena sur le sujet lors d'un réunion des 88. Il fut trancher qu'Andromeda avait droit d'agir sur son peuple comme elle le voulait.

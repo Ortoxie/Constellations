@@ -1,6 +1,6 @@
 #Femme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** hauteur d'âme, patience, clairvoyance
 
 **Age :**
 **Taille :**

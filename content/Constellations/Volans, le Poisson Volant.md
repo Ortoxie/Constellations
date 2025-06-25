@@ -1,6 +1,6 @@
 #Homme #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** évasion, planage, apesanteur
 
 **Age :**
 **Taille :**

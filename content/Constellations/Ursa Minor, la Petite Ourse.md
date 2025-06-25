@@ -1,6 +1,6 @@
 #Femme #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** solitude, bienveillance, veilleuse
 
 **Age :**
 **Taille :**

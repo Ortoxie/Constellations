@@ -1,6 +1,6 @@
 #Femme #MaisonLeo
 
-**Symbolisme :** 
+**Symbolisme :** grâce, danse, méditation
 
 **Age :**
 **Taille :**

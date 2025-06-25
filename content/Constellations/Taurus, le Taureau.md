@@ -1,6 +1,6 @@
 #Femme #LesDouze #MaisonTaurus
 
-**Symbolisme :** 
+**Symbolisme :** stabilité, patience, confort
 
 **Age :**
 **Taille :**

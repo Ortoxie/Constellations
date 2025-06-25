@@ -1,6 +1,6 @@
 #Homme #MaisonPisces
 
-**Symbolisme :** 
+**Symbolisme :** compagnie fidèle, éclaireur, farouche
 
 **Age :**
 **Taille :**

@@ -167,18 +167,6 @@
       "toSide": "top"
     },
     {
-      "color": "#372106",
-      "fromFloating": false,
-      "fromNode": "4a963b19db5f4cda",
-      "fromSide": "bottom",
-      "id": "6c2c515aa9843eb5",
-      "styleAttributes": {
-      },
-      "toFloating": false,
-      "toNode": "0fbf908526382167",
-      "toSide": "top"
-    },
-    {
       "color": "#000000",
       "fromFloating": false,
       "fromNode": "e59ed190707c24c3",
@@ -200,6 +188,18 @@
       "toFloating": false,
       "toNode": "9c7486e45626ec14",
       "toSide": "left"
+    },
+    {
+      "color": "#481f04",
+      "fromFloating": false,
+      "fromNode": "4a963b19db5f4cda",
+      "fromSide": "bottom",
+      "id": "3d04b5aefe85ee84",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "0fbf908526382167",
+      "toSide": "top"
     }
   ],
   "metadata": {

@@ -1,6 +1,6 @@
 #Femme #MaisonAries 
 
-**Symbolisme :** 
+**Symbolisme :** discrétion, adaptation, invisibilité
 
 **Age :**
 **Taille :**

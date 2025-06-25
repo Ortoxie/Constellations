@@ -1,6 +1,6 @@
 #Homme #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** innocence, beauté épurée, pureté
 
 **Age :**
 **Taille :**

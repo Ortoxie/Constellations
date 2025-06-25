@@ -1,6 +1,6 @@
 #Femme #MaisonVirgo
 
-**Symbolisme :** 
+**Symbolisme :** stabilité, ancrage, méditation
 
 **Age :**
 **Taille :**

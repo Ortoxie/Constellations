@@ -1,6 +1,6 @@
 #Homme #LesDouze #MaisonSagittarius
 
-**Symbolisme :** 
+**Symbolisme :** vérité, liberté, enthousiasme
 
 **Age :**
 **Taille :**

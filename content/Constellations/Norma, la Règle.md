@@ -1,6 +1,6 @@
 #Femme #MaisonCancer 
 
-**Symbolisme :** 
+**Symbolisme :** droiture, structure, mesure
 
 **Age :**
 **Taille :**
