@@ -3,7 +3,7 @@
 **Symbolisme :** renaissance, sentiment, fertilité
 
 **Age :**
-**Taille :**
+**Taille :** 1m70
 **Nombre de vies :**
 **Nombres de résurrections :**
 

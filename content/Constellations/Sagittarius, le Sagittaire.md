@@ -3,7 +3,7 @@
 **Symbolisme :** vérité, liberté, enthousiasme
 
 **Age :**
-**Taille :**
+**Taille :** 2m69
 **Nombre de vies :**
 **Nombres de résurrections :**
 

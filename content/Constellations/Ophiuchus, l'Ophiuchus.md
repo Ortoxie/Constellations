@@ -3,7 +3,7 @@
 **Symbolisme :** guérison, transformation, changement
 
 **Age :**
-**Taille :**
+**Taille :** 2m15
 **Nombre de vies :**
 **Nombres de résurrections :**
 

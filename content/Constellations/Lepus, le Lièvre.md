@@ -3,7 +3,7 @@
 **Symbolisme :** 
 
 **Age :**
-**Taille :**
+**Taille :** 1m79
 **Nombre de vies :**
 **Nombres de résurrections :**
 

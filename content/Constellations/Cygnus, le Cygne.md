@@ -3,7 +3,7 @@
 **Symbolisme :** transcendance, musique, grâce 
 
 **Age :**
-**Taille :**
+**Taille :** 1m72
 **Nombre de vies :**
 **Nombres de résurrections :**
 

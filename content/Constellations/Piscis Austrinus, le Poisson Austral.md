@@ -3,7 +3,7 @@
 **Symbolisme :** réceptivité, écoute, source
 
 **Age :**
-**Taille :**
+**Taille :** 1m81
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** courage, esprit vif, agilité
 
 **Age :**
-**Taille :**
+**Taille :** 1m95
 **Nombre de vies :**
 **Nombres de résurrections :**
 

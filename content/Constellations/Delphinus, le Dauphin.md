@@ -3,7 +3,7 @@
 **Symbolisme :** bienveillance, guidance, joie
 
 **Age :**
-**Taille :**
+**Taille :** 1m82
 **Nombre de vies :**
 **Nombres de résurrections :**
 

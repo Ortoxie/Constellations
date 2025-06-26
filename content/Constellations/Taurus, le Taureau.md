@@ -3,7 +3,7 @@
 **Symbolisme :** stabilité, patience, confort
 
 **Age :**
-**Taille :**
+**Taille :** 2m55
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** fluidité, confession, traversée intérieure
 
 **Age :**
-**Taille :**
+**Taille :** 2m65
 **Nombre de vies :**
 **Nombres de résurrections :**
 

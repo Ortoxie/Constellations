@@ -3,7 +3,7 @@
 **Symbolisme :** résilience, ambition, endurance
 
 **Age :**
-**Taille :**
+**Taille :** 1m87
 **Nombre de vies :**
 **Nombres de résurrections :**
 

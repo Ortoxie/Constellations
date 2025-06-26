@@ -3,7 +3,7 @@
 **Symbolisme :** dualité, communication, flexibilité
 
 **Age :**
-**Taille :**
+**Taille :** 2m21
 **Nombre de vies :**
 **Nombres de résurrections :**
 

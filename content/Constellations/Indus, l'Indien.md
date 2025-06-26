@@ -3,7 +3,7 @@
 **Symbolisme :** explorateur, connexion, quête des signes
 
 **Age :**
-**Taille :**
+**Taille :** 2m21
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** chasseur indomptable, passion, arrogance parfois
 
 **Age :**
-**Taille :**
+**Taille :** 2m31
 **Nombre de vies :**
 **Nombres de résurrections :**
 

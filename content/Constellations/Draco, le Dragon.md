@@ -3,7 +3,7 @@
 **Symbolisme :** gardiens sacré, pouvoir, vigilance
 
 **Age :**
-**Taille :**
+**Taille :** 1m83
 **Nombre de vies :**
 **Nombres de résurrections :**
 

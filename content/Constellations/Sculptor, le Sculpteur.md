@@ -3,7 +3,7 @@
 **Symbolisme :** matière, forme, tailleur
 
 **Age :**
-**Taille :**
+**Taille :** 2m21
 **Nombre de vies :**
 **Nombres de résurrections :**
 

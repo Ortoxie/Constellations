@@ -3,7 +3,7 @@
 **Symbolisme :** impulsion, courage brut, initiation
 
 **Age :**
-**Taille :**
+**Taille :** 2m19
 **Nombre de vies :**
 **Nombres de résurrections :**
 

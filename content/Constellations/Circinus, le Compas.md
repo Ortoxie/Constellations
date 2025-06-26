@@ -3,7 +3,7 @@
 **Symbolisme :** précision, savoir, géométrie
 
 **Age :**
-**Taille :**
+**Taille :** 2m21
 **Nombre de vies :**
 **Nombres de résurrections :**
 

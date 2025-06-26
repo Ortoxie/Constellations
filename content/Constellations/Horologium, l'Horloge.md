@@ -3,7 +3,7 @@
 **Symbolisme :** temps, mémoire, avenir
 
 **Age :**
-**Taille :**
+**Taille :** 2m50
 **Nombre de vies :**
 **Nombres de résurrections :**
 

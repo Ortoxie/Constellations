@@ -3,7 +3,7 @@
 **Symbolisme :** stabilité, convergence, figure
 
 **Age :**
-**Taille :**
+**Taille :** 2m10
 **Nombre de vies :**
 **Nombres de résurrections :**
 

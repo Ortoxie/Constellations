@@ -3,7 +3,7 @@
 **Symbolisme :** création, imagination, art
 
 **Age :**
-**Taille :**
+**Taille :** 1m98
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** endurance, pilote, force du guide
 
 **Age :**
-**Taille :**
+**Taille :** 2m12
 **Nombre de vies :**
 **Nombres de résurrections :**
 

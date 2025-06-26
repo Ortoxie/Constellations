@@ -3,7 +3,7 @@
 **Symbolisme :** trajectoire, mesure, calcul
 
 **Age :**
-**Taille :**
+**Taille :** 2m40
 **Nombre de vies :**
 **Nombres de résurrections :**
 

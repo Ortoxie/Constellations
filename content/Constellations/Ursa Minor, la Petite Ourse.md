@@ -3,7 +3,7 @@
 **Symbolisme :** solitude, bienveillance, veilleuse
 
 **Age :**
-**Taille :**
+**Taille :** 2m16
 **Nombre de vies :**
 **Nombres de résurrections :**
 

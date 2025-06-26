@@ -3,7 +3,7 @@
 **Symbolisme :** obsession du détail, minutieux, rigueur
 
 **Age :**
-**Taille :**
+**Taille :** 1m72
 **Nombre de vies :**
 **Nombres de résurrections :**
 

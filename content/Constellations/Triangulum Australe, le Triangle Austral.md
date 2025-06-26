@@ -3,7 +3,7 @@
 **Symbolisme :** géométrie, direction, fondation
 
 **Age :**
-**Taille :**
+**Taille :** 2m05
 **Nombre de vies :**
 **Nombres de résurrections :**
 

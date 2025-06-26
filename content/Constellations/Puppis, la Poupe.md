@@ -3,7 +3,7 @@
 **Symbolisme :** trajet passé, protection, lointain
 
 **Age :**
-**Taille :**
+**Taille :** 2m59
 **Nombre de vies :**
 **Nombres de résurrections :**
 

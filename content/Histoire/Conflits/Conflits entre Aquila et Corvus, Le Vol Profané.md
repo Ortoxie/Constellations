@@ -3,7 +3,7 @@
 **An 621 - 636 
 
 **Durée :** 15 ans
-# **Origine du conflit** :
+# **Origine du conflit :**
 
 [[Aquila, l'Aigle]] et [[Corvus, le Corbeau]] partagent un devoir sacré : accompagner les âmes des morts.
 

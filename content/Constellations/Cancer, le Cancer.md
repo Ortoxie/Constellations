@@ -3,7 +3,7 @@
 **Symbolisme :** intuition, marée émotionnelle, attachement
 
 **Age :**
-**Taille :**
+**Taille :** 1m78
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** royauté divine, victoire intérieure, noblesse
 
 **Age :**
-**Taille :**
+**Taille :** 2m20
 **Nombre de vies :**
 **Nombres de résurrections :**
 

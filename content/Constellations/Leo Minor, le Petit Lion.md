@@ -3,7 +3,7 @@
 **Symbolisme :** fierté, petite puissance, pouvoir
 
 **Age :**
-**Taille :**
+**Taille :** 1m80
 **Nombre de vies :**
 **Nombres de résurrections :**
 

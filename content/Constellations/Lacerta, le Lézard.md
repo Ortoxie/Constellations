@@ -3,7 +3,7 @@
 **Symbolisme :** discrétion, adaptation, invisibilité
 
 **Age :**
-**Taille :**
+**Taille :** 2m01
 **Nombre de vies :**
 **Nombres de résurrections :**
 

@@ -3,7 +3,7 @@
 **Symbolisme :** prudence, récolte, maternité
 
 **Age :**
-**Taille :**
+**Taille :** 2m09
 **Nombre de vies :**
 **Nombres de résurrections :**
 
